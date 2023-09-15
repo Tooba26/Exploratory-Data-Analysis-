@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-
+# Exploratory-Data-Analysis-of-Life-Expectancy
 Exploratory Data Analysis (EDA) involves the initial examination and visualization of a dataset to understand its main characteristics, identify patterns, discover anomalies, and generate hypotheses. EDA is typically performed before any formal statistical or machine learning modeling and helps data analysts and scientists get a better grasp of the data they are working with. 
 Here are the key steps and techniques involved in EDA:
 - Data Collection
