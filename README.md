@@ -13,4 +13,5 @@ Here are the key steps and techniques involved in EDA:
 - Interactive Exploration
 - Documentation
 - Communication
+
 EDA is an iterative process, and the insights gained from it can influence subsequent steps in data analysis or machine learning, such as feature selection, model choice, and evaluation metrics. It's a crucial foundation for making data-driven decisions and drawing meaningful conclusions from your data.
